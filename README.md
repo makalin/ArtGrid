@@ -2,7 +2,7 @@
 
 ArtGrid is a command-line tool for macOS that converts images to pixel art. It features customizable pixel sizes and color palettes, making it perfect for creating retro-style graphics or preparing sprites for pixel art games.
 
-![ArtGrid Banner](https://raw.githubusercontent.com/makalin/artgrid/screen.png)
+![ArtGrid Banner](screen.png)
 
 ## Features
 
