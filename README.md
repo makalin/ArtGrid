@@ -24,8 +24,8 @@ ArtGrid is a command-line tool for macOS that converts images to pixel art. It f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/artgrid.git
-cd artgrid
+git clone https://github.com/makalin/ArtGrid.git
+cd ArtGrid
 ```
 
 2. Install the required dependencies:
